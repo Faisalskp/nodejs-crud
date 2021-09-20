@@ -1,0 +1,55 @@
+{
+  "name": "nodejs-crud",
+  "version": "0.0.1",
+  "description": "Help for node crud... eg, make crud (roles,users) with single command.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  }, 
+  "keywords": [
+    "nodejs-crud",
+    "node",
+    "node crud",
+    "node auto crud",
+    "auto crud",
+    "make your node crud with single command",
+    "crud with single command",
+    "node js",
+    "ng-node-module",
+    "node mudule",
+    "make new module",
+    "make new component",
+    "node structure",
+    "make auto routes",
+    "make auto contollers",
+    "make auto models",
+    "make auto services",
+    "node cli interface",
+    "node cli",
+    "node genrator",
+    "node structure genrator",
+    "genrator for node structure",
+    "commander",
+    "commander line",
+    "commander line node interface",
+    "increase your code speed",
+    "cli inferface for node",
+    "genrate components/module like angular with single command"
+  ],
+  "author": "faisal saleem",
+  "license": "ISC",
+  "bin": {
+    "nodejs-crud": "src/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clear": "^0.1.0",
+    "commander": "^8.0.0",
+    "figlet": "^1.5.0",
+    "prettier": "^2.3.2"
+  },
+  "devDependencies": {}
+}
