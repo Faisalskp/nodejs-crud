@@ -97,7 +97,7 @@ module.exports.writeFilePromise = (fileLocation) =>
                             }
                         })
 
-                        const ${capitalizeFirstLetter(path7)} = mongoose.model(${path7}, ${path7}Schema)
+                        const ${capitalizeFirstLetter(path7)} = mongoose.model("${path7}", ${path7}Schema)
                         module.exports = ${capitalizeFirstLetter(path7)};
                     `
             fs.writeFile(fileLocation, myString, (err) => {

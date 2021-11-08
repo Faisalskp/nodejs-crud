@@ -1,6 +1,6 @@
 {
   "name": "nodejs-crud",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Help for node crud... eg, make crud (roles,users) with single command.",
   "main": "src/index.js",
   "scripts": {
